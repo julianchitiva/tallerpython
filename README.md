@@ -1,2 +1,3 @@
-# tallerpython
-Taller de Python - Universidad de los Andes
+# Taller de Python
+## Universidad de los Andes - Facultad de Economía
+
