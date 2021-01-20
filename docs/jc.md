@@ -11,7 +11,7 @@ title: Seccion 1
 
 # Anuncios varios
 
-## [Programa](../programa/prog_seccion_1.pdf)
+## [Programa](../programas/prog_seccion_1.pdf)
 
 ## Reglas de Clase
 
