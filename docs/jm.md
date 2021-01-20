@@ -1,6 +1,8 @@
 ---
 title: Seccion 2
 ---
+[Página Principal](./README.md)
+
 # Contacto
 [Correo](mailto:js.moreno11@uniandes.edu.co)
 
