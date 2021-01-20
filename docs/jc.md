@@ -11,8 +11,6 @@ title: Seccion 1
 
 # Anuncios varios
 
-## [Programa](../programas/prog_seccion_1.pdf)
-
 ## Reglas de Clase
 
 Para iniciar la clase por favor tengan siempre : (frescos! el significado de todo esto lo discutimos en la primera clase)
