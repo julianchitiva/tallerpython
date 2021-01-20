@@ -1,7 +1,7 @@
 ---
 title: Seccion 1
 ---
-<div style="text-align: right"> [Página Principal](./README.md) </a> </div>
+[<div style="text-align: right"> Página Principal </div>](./README.md)
 
 # Contacto
 [Correo](mailto:je.chitiva10@uniandes.edu.co)
