@@ -7,10 +7,12 @@ title: Seccion 1
 [Correo](mailto:je.chitiva10@uniandes.edu.co)
 
 # Clase
-Lunes 3:30pm - 4:45pm 
-[Zoom](https://uniandes-edu-co.zoom.us/meeting/register/tZcsfuGrrDgoGNSRwn3vTGIwH4B-eNrbdAqF) 
+[Lunes 3:30pm - 4:45pm](https://uniandes-edu-co.zoom.us/meeting/register/tZcsfuGrrDgoGNSRwn3vTGIwH4B-eNrbdAqF) 
 
 # Anuncios varios
+
+## [Programa](../programa/prog_seccion_1.pdf)
+
 ## Reglas de Clase
 
 Para iniciar la clase por favor tengan siempre : (frescos! el significado de todo esto lo discutimos en la primera clase)
