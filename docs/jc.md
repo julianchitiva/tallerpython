@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Seccion 1
 ---
 # Contacto

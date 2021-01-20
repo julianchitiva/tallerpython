@@ -2,7 +2,7 @@
 ###	Facultad de Economía - Universidad de los Andes
 
 ## Profesores
-- [Julián Chitiva](https://julianchitiva.github.io/tallerpython/jc.html)
+- [Julián Chitiva](./jc.md)
 - [Juan Sebastian Moreno](https://julianchitiva.github.io/tallerpython/jm.html)
 
 ## Metodología
