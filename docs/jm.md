@@ -2,7 +2,7 @@
 title: Seccion 2
 ---
 # Contacto
-[Correo](mailto:juansebastian.moreno@quantil.com.co)
+[Correo](mailto:js.moreno11@uniandes.edu.co)
 
 # Clase
 Martes 5:00pm - 6:15pm 
