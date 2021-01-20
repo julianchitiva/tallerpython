@@ -88,11 +88,11 @@ Todos los contenidos del curso serán montados a este repositorio a medida que s
 
 En la primera clase les comentaré exactamente que fue lo que hicieron. Para tener python y muchas otros recursos que exploraremos vamos a descargar Anaconda (de nuevo, sé que no deben estar entiendo mucho, después de la primera clase todo será mucho más claro).
 
-Vayan a  https://www.anaconda.com/distribution/ 
-Al final de la página encontrarán una sección que se llama Anaconda Installers.
-Escojan y descarguen el pertinente para su equipo (Windows, Mac o Linux).
-Asegurense antes de descargarlo que diga python 3.8
-Una vez lo descarguen de ese link podrán instalarlo a partir del mismo archivo (.exe o .dmg).
+- Vayan a  <https://www.anaconda.com/distribution/>
+- Al final de la página encontrarán una sección que se llama Anaconda Installers. 
+- Escojan y descarguen el pertinente para su equipo (Windows, Mac o Linux). 
+- Asegurense antes de descargarlo que diga python 3.8. 
+- Una vez lo descarguen de ese link podrán instalarlo a partir del mismo archivo (.exe o .dmg).
 
 
 
