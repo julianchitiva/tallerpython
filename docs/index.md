@@ -3,7 +3,10 @@
 
 ## Profesores
 - [Julián Chitiva](https://julianchitiva.github.io/tallerpython/jc.html)
-- Juan SebastianMoreno
+- [Juan Sebastian Moreno](https://julianchitiva.github.io/tallerpython/jm.html)
+
+## Metodología
+Todos los contenidos del curso serán montados a este repositorio a medida que se vayan avanzando en los temas del curso. Las clases serán realizadas por zoom (enlaces por confirmar).
 
 ## Contenido del Curso 
 ### Clase 1: Introducción a Python3

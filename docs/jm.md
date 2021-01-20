@@ -1,11 +1,11 @@
 ---
-title: Seccion 1
+title: Seccion 2
 ---
 # Contacto
-[Correo](mailto:je.chitiva10@uniandes.edu.co)
+[Correo](mailto:juansebastian.moreno@quantil.com.co)
 
 # Clase
-Lunes 3:30pm - 4:45pm 
+Martes 5:00pm - 6:15pm 
 Zoom 
 
 # Anuncios varios
