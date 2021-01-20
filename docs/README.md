@@ -3,7 +3,7 @@
 
 ## Profesores
 - [Julián Chitiva](./jc.md)
-- [Juan Sebastian Moreno](https://julianchitiva.github.io/tallerpython/jm.html)
+- [Juan Sebastian Moreno](./jm.md)
 
 ## Metodología
 Todos los contenidos del curso serán montados a este repositorio a medida que se vayan avanzando en los temas del curso. Las clases serán realizadas por zoom (enlaces por confirmar).
