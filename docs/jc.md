@@ -6,7 +6,7 @@ title: Seccion 1
 
 # Clase
 Lunes 3:30pm - 4:45pm 
-Zoom 
+[Zoom](https://uniandes-edu-co.zoom.us/meeting/register/tZcsfuGrrDgoGNSRwn3vTGIwH4B-eNrbdAqF) 
 
 # Anuncios varios
 ## Reglas de Clase
