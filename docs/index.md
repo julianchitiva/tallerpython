@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages		
+# Taller de Python 
+###	Facultad de Economía - Universidad de los Andes
 
-You can use the [editor on GitHub](https://github.com/julianchitiva/tallerpython/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.		
+## Profesores
+- [Julián Chitiva](https://julianchitiva.github.io/tallerpython/jc.html)
+- Juan SebastianMoreno
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.		
+## Contenido del Curso 
+### Clase 1: Introducción a Python3
+- ¿Qué es? ¿Por qué?
+- Anaconda, PIP, Spyder, Jupyter.
+- Funciones internas de Python.
+- Operaciones matemáticas.
+- Estructuras de datos básicas: int, str, float, listas, diccionarios, bool.
+- Funciones de identificación y conversión.
+- Asignar objetos, mutarlos y borrarlos.
+- Métodos y atributos.
 
-### Markdown		
+### Clase 2: Exploración de objetos y condicionales.
+- Indexación de listas y diccionarios.
+- Condicionales.
+- Numpy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for		
+### Clase 3: Funciones I
+- Uso de funciones.
+- Definición de funciones.
+- Funciones anónimas.
 
-```markdown		
-Syntax highlighted code block		
+### Clase 4: Funciones II y Condicionales
+- Funciones recursivas.
+- Funciones II.
+- Algoritmos.
+- If, elif y else.
 
-# Header 1		
-## Header 2		
-### Header 3		
+### Clase 5: Condicionales y Loops
+- Controles.
+- For y while.
+- Map.
+- Zip.
 
-- Bulleted		
-- List		
+### Clase 6: TALLER 1
 
-1. Numbered		
-2. List		
+### Clase 7: Bases de datos I
+- Instalación e importación de paquetes.
+- Pandas
+- Importación y exportación de datos
+- Métodos de los DataFrame y Series
+- Manipulación de bases de datos: indexación, operaciones y agrupación.
 
-**Bold** and _Italic_ and `Code` text		
+### Clase 8: Bases de datos II
+- Manipulación de bases de datos: muestreos y agrupaciones.
+- Unión: merge, join, concat, append.
+- Estadísticas descriptivas.
 
-[Link](url) and ![Image](src)		
-```		
+### Clase 9: Visualización de datos
+- Matplotlib.
+- Plotly.
+- Seaborn.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).		
+### Clase 10: TALLER 2
 
-### Jekyll Themes		
+### Clase 11: Econometría I
+- Statmodels.
+- Scipy.
+- Pruebas estadísticas.
+- OLS.
+- Modelos discretos.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julianchitiva/tallerpython/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.		
+### Clase 12: Automatización de reportes
+- Diagramación automática de Excel.
+- Generación de reportes.
+- Diseño personalizado de resúmenes ejecutivos.
+- Inclusión de gráficos
+- Notificaciones al smartphone.
 
-### Support or Contact		
+### Clase 13, 14 y 15*: Los estudiantes elegirán que aprender de los siguientes temas
+- Introducción a web scraping.
+- Optimización con Pyomo/CVXPY
+- Python Simbólico. 
+- Introducción a Machine Learning.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Clase 16: TALLER 3
+
+## Instrucciones para instalar Python
+
+En la primera clase les comentaré exactamente que fue lo que hicieron. Para tener python y muchas otros recursos que exploraremos vamos a descargar Anaconda (de nuevo, sé que no deben estar entiendo mucho, después de la primera clase todo será mucho más claro).
+
+Vayan a  https://www.anaconda.com/distribution/ 
+Al final de la página encontrarán una sección que se llama Anaconda Installers.
+Escojan y descarguen el pertinente para su equipo (Windows, Mac o Linux).
+Asegurense antes de descargarlo que diga python 3.8
+Una vez lo descarguen de ese link podrán instalarlo a partir del mismo archivo (.exe o .dmg).
+
+
+
