@@ -29,7 +29,8 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 - Asignar objetos, mutarlos y borrarlos.
 - Métodos y atributos.
 
-[[Descargar Estudiantes]](./../clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1.ipynb) [[Descargar Solucion]](./../clases/20211/Clase_1_Introduccion/Clase_1_Solucion_1.ipynb)
+<a id="raw-url" href="https://raw.githubusercontent.com/julianchitiva/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
+[[Descargar Solucion]](./../clases/20211/Clase_1_Introduccion/Clase_1_Solucion_1.ipynb)
 
 
 
