@@ -29,8 +29,7 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 - Asignar objetos, mutarlos y borrarlos.
 - Métodos y atributos.
 
-<a href="./../clases/20211/Clase_1_Introduccion/Clase_1_Solucion_1.ipynb" download>[Descargar Estudiantes]</a>
-(https://raw.githubusercontent.com/julianchitiva/tallerpython/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1.ipynb) [[Descargar Solucion]]()
+<a href="https://github.com/downloads/julianchitiva/tallerpython/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1.ipynb" download>[Descargar Solución]</a>
 
 
 
