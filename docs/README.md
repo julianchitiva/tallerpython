@@ -29,6 +29,10 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 - Asignar objetos, mutarlos y borrarlos.
 - Métodos y atributos.
 
+[Descargar Estudiantes] (https://raw.githubusercontent.com/julianchitiva/tallerpython/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1.ipynb) [Descargar Solucion] (./../clases/20211/Clase_1_Introduccion/Clase_1_Solucion_1.ipynb)
+
+
+
 ### Clase 2: Exploración de objetos y condicionales.
 - Indexación de listas y diccionarios.
 - Condicionales.
