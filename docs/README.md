@@ -8,6 +8,8 @@
 ## Metodología
 Todos los contenidos del curso serán montados a este repositorio a medida que se vayan avanzando en los temas del curso. Las clases serán realizadas por zoom (enlaces por confirmar).
 
+## [Instrucciones para descargar los archivos de clase.](./download_file.md) 
+
 ## Instrucciones para instalar Python
 
 En la primera clase les comentaré exactamente que fue lo que hicieron. Para tener python y muchas otros recursos que exploraremos vamos a descargar Anaconda (de nuevo, sé que no deben estar entiendo mucho, después de la primera clase todo será mucho más claro).
