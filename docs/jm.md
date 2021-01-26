@@ -8,7 +8,8 @@ title: Seccion 2
 
 # Clase
 Martes 5:00pm - 6:15pm 
-Zoom 
+Zoom: https://uniandes-edu-co.zoom.us/j/88330501500
+
 
 # Anuncios varios
 ## Reglas de Clase
@@ -20,4 +21,3 @@ Para iniciar la clase por favor tengan siempre : (frescos! el significado de tod
 - Los archivos necesarios para la clase descargadas en su ambiente de trabajo. 
 - El micrófono en mute.
 - Cuando quieran preguntar algo espichen el botón de levantar la mano y yo les daré la palabra de inmediato.                  
-- No tener la cámara activada (Debido a la virtualidad del curso, en la primera clase haremos una excepción. Esto es por cuestiones del ancho de banda del internet. )
