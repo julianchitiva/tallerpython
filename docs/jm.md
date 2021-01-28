@@ -22,3 +22,8 @@ Para iniciar la clase por favor tengan siempre : (frescos! el significado de tod
 - Los archivos necesarios para la clase descargadas en su ambiente de trabajo. 
 - El micrófono en mute.
 - Cuando quieran preguntar algo espichen el botón de levantar la mano y yo les daré la palabra de inmediato.                  
+
+## Clases Grabadas.
+La clave para todas las grabaciones es _juanpython2021!_
+
+- Clase 1: introducción https://uniandes-edu-co.zoom.us/rec/share/wx3eYExR4s8Ps7a47toDWlnmUV8UYIZR3UDiEAnVgkzib0AtDX1GpNmRXdYMu6eG.6Md1lUoWvnWY7rcE
