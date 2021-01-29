@@ -9,6 +9,12 @@ title: Seccion 1
 # Clase
 [Lunes 3:30pm - 4:45pm](https://uniandes-edu-co.zoom.us/meeting/register/tZcsfuGrrDgoGNSRwn3vTGIwH4B-eNrbdAqF) 
 
+### Clase 1 [[Video]](https://youtu.be/3iOulv7Qh30)
+- Anaconda
+- Introducción a Jupyter 
+- (Interfaz) Jupyter Lab vs Jupyter Notebooks
+- Notebooks
+
 # Anuncios varios
 
 ## Reglas de Clase
