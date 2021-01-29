@@ -8,7 +8,9 @@ title: Seccion 2
 
 # Clase
 Martes 5:00pm - 6:15pm 
-Zoom 
+
+Zoom: https://uniandes-edu-co.zoom.us/j/88330501500
+
 
 # Anuncios varios
 ## Reglas de Clase
@@ -20,4 +22,8 @@ Para iniciar la clase por favor tengan siempre : (frescos! el significado de tod
 - Los archivos necesarios para la clase descargadas en su ambiente de trabajo. 
 - El micrófono en mute.
 - Cuando quieran preguntar algo espichen el botón de levantar la mano y yo les daré la palabra de inmediato.                  
-- No tener la cámara activada (Debido a la virtualidad del curso, en la primera clase haremos una excepción. Esto es por cuestiones del ancho de banda del internet. )
+
+## Clases Grabadas.
+La clave para todas las grabaciones es _juanpython2021!_
+
+- Clase 1: introducción https://uniandes-edu-co.zoom.us/rec/share/wx3eYExR4s8Ps7a47toDWlnmUV8UYIZR3UDiEAnVgkzib0AtDX1GpNmRXdYMu6eG.6Md1lUoWvnWY7rcE
