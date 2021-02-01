@@ -6,14 +6,23 @@ title: Seccion 1
 # Contacto
 [Correo](mailto:je.chitiva10@uniandes.edu.co)
 
-# Clase
+# Clases
 [Lunes 3:30pm - 4:45pm](https://uniandes-edu-co.zoom.us/meeting/register/tZcsfuGrrDgoGNSRwn3vTGIwH4B-eNrbdAqF) 
 
-### Clase 1 [[Video]](https://youtu.be/3iOulv7Qh30)
+## Clase 1 [[Video]](https://youtu.be/3iOulv7Qh30)
 - Anaconda
 - Introducción a Jupyter 
 - (Interfaz) Jupyter Lab vs Jupyter Notebooks
 - Notebooks
+
+## Clase 2 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1_JC.ipynb" download>[Descargar Estudiantes]</a> 
+- Integers
+- Floats
+- Strings
+- Booleanos
+- Operaciones entre objetos de estos tipos
+- Metodos de objetos (. + "tab")
+- Formato de Strings
 
 # Anuncios varios
 
