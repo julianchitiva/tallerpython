@@ -23,7 +23,28 @@ Para iniciar la clase por favor tengan siempre : (frescos! el significado de tod
 - El micrófono en mute.
 - Cuando quieran preguntar algo espichen el botón de levantar la mano y yo les daré la palabra de inmediato.                  
 
-## Clases Grabadas.
+
+# Clases
 La clave para todas las grabaciones es _juanpython2021!_
+
+## Clase 1 [Grabación](https://uniandes-edu-co.zoom.us/rec/share/wx3eYExR4s8Ps7a47toDWlnmUV8UYIZR3UDiEAnVgkzib0AtDX1GpNmRXdYMu6eG.6Md1lUoWvnWY7rcE)
+- Anaconda
+- Introducción a Jupyter 
+- (Interfaz) Jupyter Lab vs Jupyter Notebooks
+- Notebooks
+
+## Clase 2 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1_JC.ipynb" download>[Descargar Estudiantes]</a> 
+- Integers
+- Floats
+- Strings
+- Booleanos
+- Operaciones entre objetos de estos tipos
+- Metodos de objetos (. + "tab")
+- Formato de Strings
+
+
+
+## Clases Grabadas.
+
 
 - Clase 1: introducción https://uniandes-edu-co.zoom.us/rec/share/wx3eYExR4s8Ps7a47toDWlnmUV8UYIZR3UDiEAnVgkzib0AtDX1GpNmRXdYMu6eG.6Md1lUoWvnWY7rcE
