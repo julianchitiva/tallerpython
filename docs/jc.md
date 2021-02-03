@@ -15,7 +15,7 @@ title: Seccion 1
 - (Interfaz) Jupyter Lab vs Jupyter Notebooks
 - Notebooks
 
-## Clase 2 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1_JC.ipynb" download>[Descargar Estudiantes]</a> 
+## Clase 2 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]](https://youtu.be/J2jC6xygKpc)
 - Integers
 - Floats
 - Strings
