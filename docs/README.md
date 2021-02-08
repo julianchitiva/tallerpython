@@ -37,9 +37,15 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 
 
 ### Clase 2: Exploración de objetos y condicionales.
-- Indexación de listas y diccionarios.
-- Condicionales.
-- Numpy.
+- Iterables:
+    - Listas
+    - Tuplas
+    - Diccionarios
+- Ejercicios
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_2_Iterables/Clase_2_Estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_2_Iterables/Clase_2_Solucion_1.ipynb" download>[Descargar Solucion]</a>
+
 
 ### Clase 3: Funciones I
 - Uso de funciones.

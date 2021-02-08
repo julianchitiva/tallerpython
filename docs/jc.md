@@ -24,6 +24,10 @@ title: Seccion 1
 - Metodos de objetos (. + "tab")
 - Formato de Strings
 
+## Clase 3 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_2_Iterables/Clase_1_Estudiantes_2_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]]
+
+
+
 # Anuncios varios
 
 ## Reglas de Clase
