@@ -33,7 +33,8 @@ La clave para todas las grabaciones es _juanpython2021!_
 - (Interfaz) Jupyter Lab vs Jupyter Notebooks
 - Notebooks
 
-## Clase 2 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1_JC.ipynb" download>[Descargar Estudiantes]</a> 
+## Clase 2 [Grabación](https://uniandes-edu-co.zoom.us/rec/share/BWQqKOEqoq9Epg0jPiwPV-aCUIkdmlN_z4hugJBRiQJKKw5v4YkCERu2ELJ4qzyp.E_wbkz56Oun3DXxn)
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_1_JC.ipynb" download>[Descargar Estudiantes]</a> 
 - Integers
 - Floats
 - Strings
@@ -42,9 +43,20 @@ La clave para todas las grabaciones es _juanpython2021!_
 - Metodos de objetos (. + "tab")
 - Formato de Strings
 
+## Clase 3 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_2_JC.ipynb" download>[Descargar Estudiantes]</a> 
+
+- Iterables
+- Listas
+- Diccionarios
+- Tuplas
 
 
 ## Clases Grabadas.
 
+La clave para todas las sesiones es: juanpython2021!
 
-- Clase 1: introducción https://uniandes-edu-co.zoom.us/rec/share/wx3eYExR4s8Ps7a47toDWlnmUV8UYIZR3UDiEAnVgkzib0AtDX1GpNmRXdYMu6eG.6Md1lUoWvnWY7rcE
+- Clase 1: [introducción](https://uniandes-edu-co.zoom.us/rec/share/wx3eYExR4s8Ps7a47toDWlnmUV8UYIZR3UDiEAnVgkzib0AtDX1GpNmRXdYMu6eG.6Md1lUoWvnWY7rcE)
+- Clase 2: [Asignación de variables](https://uniandes-edu-co.zoom.us/rec/share/BWQqKOEqoq9Epg0jPiwPV-aCUIkdmlN_z4hugJBRiQJKKw5v4YkCERu2ELJ4qzyp.E_wbkz56Oun3DXxn)
+
+
