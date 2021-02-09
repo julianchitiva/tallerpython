@@ -44,7 +44,7 @@ La clave para todas las grabaciones es _juanpython2021!_
 - Formato de Strings
 
 ## Clase 3 
-<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_1_Introduccion/Clase_1_Estudiantes_2_JC.ipynb" download>[Descargar Estudiantes]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_1_Introduccion/Clase_2_Estudiantes_1_JC.ipynb" download>[Descargar Estudiantes]</a> 
 
 - Iterables
 - Listas
