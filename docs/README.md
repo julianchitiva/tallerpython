@@ -47,10 +47,13 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_2_Iterables/Clase_2_Solucion_1.ipynb" download>[Descargar Solucion]</a>
 
 
-### Clase 3: Funciones I
-- Uso de funciones.
-- Definición de funciones.
-- Funciones anónimas.
+### Clase 3: Condicionales, Loops y Funciones
+- Condicionales: if, elif, else.
+- Definicion de funciones.
+- Ciclo (loops) for y while.
+- Ejercicios
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_solucion.ipynb" download>[Descargar Solucion]</a>
 
 ### Clase 4: Funciones II y Condicionales
 - Funciones recursivas.
