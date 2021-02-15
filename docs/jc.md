@@ -25,7 +25,16 @@ title: Seccion 1
 - Formato de Strings
 
 ## Clase 3 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_2_Iterables/Clase_1_Estudiantes_2_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]](https://youtu.be/Qsq5YpGRSlk)
+- Listas
+- Tuplas
+- Diccionarios
 
+## Clase 4 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_estudiantes_1_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]](https://youtu.be/4ucBvzZzwH8)
+- Ejercicios
+- Diccionarios
+- Condicionales 
+- Funciones
+- Ciclos (for y while)
 
 # Anuncios varios
 
