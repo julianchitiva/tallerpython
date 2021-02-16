@@ -53,7 +53,7 @@ La clave para todas las grabaciones es _juanpython2021!_
 
 ### Clase 4: Condicionales, Loops y Funciones
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
-<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_solucion.ipynb" download>[Descargar Solucion]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_solucion_1.ipynb" download>[Descargar Solucion]</a>
 
 - Condicionales: if, elif, else.
 - Definicion de funciones.
