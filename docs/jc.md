@@ -36,6 +36,13 @@ title: Seccion 1
 - Funciones
 - Ciclos (for y while)
 
+## Clase 5 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_4_funciones_II/Clase_4_estudiantes_1_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]](https://youtu.be/uDt9R4K7s74)
+- Loops de una linea
+- Funciones recursivas
+- Controles sobre Loops
+- Documentación de Funciones
+
+
 # Anuncios varios
 
 ## Reglas de Clase
