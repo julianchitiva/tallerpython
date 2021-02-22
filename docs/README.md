@@ -54,21 +54,23 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 - Ejercicios
 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
-<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_solucion.ipynb" download>[Descargar Solucion]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_solucion_1.ipynb" download>[Descargar Solucion]</a>
 
 ### Tarea 1: <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Ejercicios_Tareas/Tarea1.ipynb" download>[Enunciado]</a>
 
 ### Clase 4: Funciones II y Condicionales
 - Funciones recursivas.
 - Funciones II.
+- Controles.
 - Algoritmos.
-- If, elif y else.
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_4_funciones_II/Clase_4_estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_4_funciones_II/Clase_4_solucion_1.ipynb" download>[Descargar Solucion]</a>
 
 ### Clase 5: Condicionales y Loops
-- Controles.
-- For y while.
 - Map.
 - Zip.
+- Funciones anónimas.
 
 ### Clase 6: TALLER 1
 
