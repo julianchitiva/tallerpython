@@ -61,6 +61,14 @@ La clave para todas las grabaciones es _juanpython2021!_
 - Ejercicios
 
 
+### Clase 5: Funciones II y Condicionales
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_4_funciones_II/Clase_4_estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_4_funciones_II/Clase_4_solucion_1.ipynb" download>[Descargar Solucion]</a>
+
+- Funciones recursivas.
+- Funciones II.
+- Controles.
+- Algoritmos.
 
 
 
