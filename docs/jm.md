@@ -51,7 +51,7 @@ La clave para todas las grabaciones es _juanpython2021!_
 - Diccionarios
 - Tuplas
 
-### Clase 4: Condicionales, Loops y Funciones
+### Clase 4: Condicionales, Loops y Funciones [Grabación](https://uniandes-edu-co.zoom.us/rec/share/7Wn2YN_5TBXpm72X9mTAEqpZya1EJegySZEzJaS-Cxp_X4dVtZf-3bEF1AgAfof8.U-4YM9fPX5UXPLfF)
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_3_funciones_loops_condicionales/Clase_3_solucion_1.ipynb" download>[Descargar Solucion]</a>
 
@@ -61,6 +61,14 @@ La clave para todas las grabaciones es _juanpython2021!_
 - Ejercicios
 
 
+### Clase 5: Funciones II y Condicionales
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_4_funciones_II/Clase_4_estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_4_funciones_II/Clase_4_solucion_1.ipynb" download>[Descargar Solucion]</a>
+
+- Funciones recursivas.
+- Funciones II.
+- Controles.
+- Algoritmos.
 
 
 
@@ -71,4 +79,4 @@ La clave para todas las sesiones es: juanpython2021!
 - Clase 1: [introducción](https://uniandes-edu-co.zoom.us/rec/share/wx3eYExR4s8Ps7a47toDWlnmUV8UYIZR3UDiEAnVgkzib0AtDX1GpNmRXdYMu6eG.6Md1lUoWvnWY7rcE)
 - Clase 2: [Asignación de variables](https://uniandes-edu-co.zoom.us/rec/share/BWQqKOEqoq9Epg0jPiwPV-aCUIkdmlN_z4hugJBRiQJKKw5v4YkCERu2ELJ4qzyp.E_wbkz56Oun3DXxn)
 - Clase 3: [Iterables](https://uniandes-edu-co.zoom.us/rec/share/MSTCOE99L4reXG6IpbbHasq-RLd4PvgvtscviCX0tbztztBhjT4njzTnJ3UBGA_O.n8yk5eTjJhqNZtrD)
-
+- Clase 4: [Funciones, condicionales y loops](https://uniandes-edu-co.zoom.us/rec/share/7Wn2YN_5TBXpm72X9mTAEqpZya1EJegySZEzJaS-Cxp_X4dVtZf-3bEF1AgAfof8.U-4YM9fPX5UXPLfF)
