@@ -72,7 +72,10 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 - Zip.
 - Funciones anónimas.
 
-### Clase 6: TALLER 1
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_5_funciones_III/Clase_5_estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_5_funciones_III/Clase_5_solucion_1.ipynb" download>[Descargar Solucion]</a>
+
+### Clase 6: TALLER 1 
 
 ### Clase 7: Bases de datos I
 - Instalación e importación de paquetes.
