@@ -42,6 +42,11 @@ title: Seccion 1
 - Controles sobre Loops
 - Documentación de Funciones
 
+## Clase 6 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_5_funciones_III/Clase_5_estudiantes_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]](https://youtu.be/BhA1cSOx6cs)
+- Zip
+- Map
+- Funciones lambda
+
 
 # Anuncios varios
 
