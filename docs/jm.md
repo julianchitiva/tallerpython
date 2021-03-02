@@ -70,7 +70,14 @@ La clave para todas las grabaciones es _juanpython2021!_
 - Controles.
 - Algoritmos.
 
+### Clase 6: Otras funciones y TALLER 1
+- Map.
+- Zip.
+- Funciones anónimas.
 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_5_funciones_III/Clase_5_estudiantes_1.ipynb" download>[Descargar Estudiantes]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_5_funciones_III/Clase_5_solucion_1.ipynb" download>[Descargar Solucion]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_6_taller_1/Taller_1_estudiantes.ipynb" download>[Enunciado Taller 1 (Individual)]</a>
 
 ## Clases Grabadas.
 
