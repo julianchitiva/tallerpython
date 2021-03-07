@@ -84,6 +84,11 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 - Métodos de los DataFrame y Series
 - Manipulación de bases de datos: indexación, operaciones y agrupación.
 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/Clase_7_estudiantes.ipynb" download>[Descargar Estudiantes]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/Clase_7_solucion.ipynb" download>[Descargar Solucion]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.csv" download>[csv]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.xlsx" download>[xlsx]</a> 
+
 ### Clase 8: Bases de datos II
 - Manipulación de bases de datos: muestreos y agrupaciones.
 - Unión: merge, join, concat, append.
