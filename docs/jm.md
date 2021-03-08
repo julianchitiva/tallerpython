@@ -70,7 +70,7 @@ La clave para todas las grabaciones es _juanpython2021!_
 - Controles.
 - Algoritmos.
 
-### Clase 6: Otras funciones y TALLER 1
+### Clase 6: Otras funciones y TALLER 1 [Grabación](https://uniandes-edu-co.zoom.us/rec/share/aObLfRrEyvjxcoEboAtg7a12heFY_Ylyy_Ol0YMb8t-66zSbYPgYIHNm7vO4WA-y.S4_p-gc8hNhQtp4q)
 - Map.
 - Zip.
 - Funciones anónimas.
@@ -88,3 +88,4 @@ La clave para todas las sesiones es: juanpython2021!
 - Clase 3: [Iterables](https://uniandes-edu-co.zoom.us/rec/share/MSTCOE99L4reXG6IpbbHasq-RLd4PvgvtscviCX0tbztztBhjT4njzTnJ3UBGA_O.n8yk5eTjJhqNZtrD)
 - Clase 4: [Funciones, condicionales y loops](https://uniandes-edu-co.zoom.us/rec/share/7Wn2YN_5TBXpm72X9mTAEqpZya1EJegySZEzJaS-Cxp_X4dVtZf-3bEF1AgAfof8.U-4YM9fPX5UXPLfF)
 - Clase 5: [Funciones II y Condicionales](https://uniandes-edu-co.zoom.us/rec/share/YwyWxurF0eY3HzGIplr9gBn6ZGndOLKutRRD64lgGjINQ-u9eJgANWVcwh1AU6JP.wqHHhx8Bf1JRrQhF)
+- Clase 6: [Map, Zip, Lambda Functions y Taller 1](https://uniandes-edu-co.zoom.us/rec/share/aObLfRrEyvjxcoEboAtg7a12heFY_Ylyy_Ol0YMb8t-66zSbYPgYIHNm7vO4WA-y.S4_p-gc8hNhQtp4q)
