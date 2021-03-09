@@ -79,6 +79,20 @@ La clave para todas las grabaciones es _juanpython2021!_
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_5_funciones_III/Clase_5_solucion_1.ipynb" download>[Descargar Solucion]</a>
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_6_taller_1/Taller_1_estudiantes.ipynb" download>[Enunciado Taller 1 (Individual)]</a>
 
+### Clase 7: Bases de datos I
+- Instalación e importación de paquetes.
+- Pandas
+- Importación y exportación de datos
+- Métodos de los DataFrame y Series
+- Manipulación de bases de datos: indexación, operaciones y agrupación.
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/Clase_7_estudiantes.ipynb" download>[Descargar Estudiantes]</a>
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/Clase_7_solucion.ipynb" download>[Descargar Solucion]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.csv" download>[csv]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.xlsx" download>[xlsx]</a> 
+
+
+
 ## Clases Grabadas.
 
 La clave para todas las sesiones es: juanpython2021!
