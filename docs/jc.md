@@ -57,6 +57,16 @@ title: Seccion 1
 - Borrar filas o columnas. 
 - Manejo de datos faltantes.
 
+## Clase 8 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/Clase_8_estudiantes_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]](https://youtu.be/lOnhfwqfYCE)
+- Importación y exportación de datos.
+- Union de bases de datos:
+    - concat.
+    - append.
+    - merge.
+- Muestreos.
+- Transformaciones de tipos de datos.
+- Manejo de Fechas. 
+
 # Anuncios varios
 
 ## Reglas de Clase
