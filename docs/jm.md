@@ -79,7 +79,7 @@ La clave para todas las grabaciones es _juanpython2021!_
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_5_funciones_III/Clase_5_solucion_1.ipynb" download>[Descargar Solucion]</a>
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_6_taller_1/Taller_1_estudiantes.ipynb" download>[Enunciado Taller 1 (Individual)]</a>
 
-### Clase 7: Bases de datos I
+### Clase 7: Bases de datos I [Grabación](https://uniandes-edu-co.zoom.us/rec/share/BUQc5LWTsUpG8qSMyVqCtayWjSGr6byv5YCOY30Xc1L0UprkcoM6B8JoXFkJlvoV.BiWyXZ53OkMW7QWJ)
 - Instalación e importación de paquetes.
 - Pandas
 - Importación y exportación de datos
@@ -91,7 +91,22 @@ La clave para todas las grabaciones es _juanpython2021!_
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.csv" download>[csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.xlsx" download>[xlsx]</a> 
 
+### Clase 8: Bases de datos II 
+- Importación y exportación de datos
+- Unión de bases: merge, concat, append.
+- Manipulación de bases de datos:
+    - Muestreos.
+    - Agrupaciones.
+    - Tablas Pivote.
+    - Tabulaciones.
+    - Fechas.
+    - Categorias.
+    - Orden.
 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/Clase_8_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/Clase_8_solucion.ipynb" download>[Descargar Estudiantes]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/info_accidentes.csv" download>[accidentes csv]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/info_accidentes.xlsx" download>[accidentes xlsx]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares1.csv" download>[hogares 1 csv]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares2.csv" download>[hogares 2 csv]</a> 
 
 ## Clases Grabadas.
 
@@ -103,3 +118,4 @@ La clave para todas las sesiones es: juanpython2021!
 - Clase 4: [Funciones, condicionales y loops](https://uniandes-edu-co.zoom.us/rec/share/7Wn2YN_5TBXpm72X9mTAEqpZya1EJegySZEzJaS-Cxp_X4dVtZf-3bEF1AgAfof8.U-4YM9fPX5UXPLfF)
 - Clase 5: [Funciones II y Condicionales](https://uniandes-edu-co.zoom.us/rec/share/YwyWxurF0eY3HzGIplr9gBn6ZGndOLKutRRD64lgGjINQ-u9eJgANWVcwh1AU6JP.wqHHhx8Bf1JRrQhF)
 - Clase 6: [Map, Zip, Lambda Functions y Taller 1](https://uniandes-edu-co.zoom.us/rec/share/aObLfRrEyvjxcoEboAtg7a12heFY_Ylyy_Ol0YMb8t-66zSbYPgYIHNm7vO4WA-y.S4_p-gc8hNhQtp4q)
+- Clase 7: [Bases de datos I](https://uniandes-edu-co.zoom.us/rec/share/BUQc5LWTsUpG8qSMyVqCtayWjSGr6byv5YCOY30Xc1L0UprkcoM6B8JoXFkJlvoV.BiWyXZ53OkMW7QWJ)
