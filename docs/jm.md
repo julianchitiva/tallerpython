@@ -103,7 +103,7 @@ La clave para todas las grabaciones es _juanpython2021!_
     - Categorias.
     - Orden.
 
-<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/Clase_8_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/Clase_8_solucion.ipynb" download>[Descargar Estudiantes]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/info_accidentes.csv" download>[accidentes csv]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/Clase_8_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/Clase_8_solucion.ipynb" download>[Descargar Solución]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/info_accidentes.csv" download>[accidentes csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/info_accidentes.xlsx" download>[accidentes xlsx]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares1.csv" download>[hogares 1 csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares2.csv" download>[hogares 2 csv]</a> 
