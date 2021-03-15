@@ -47,6 +47,15 @@ title: Seccion 1
 - Map
 - Funciones lambda
 
+## Clase 7 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/Clase_7_estudiantes_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]](https://youtu.be/Dg2qgH_zfSs)
+- Introducción a Pandas.
+- Pandas DataFrame.
+- Pandas Series.
+- Indexación: Filas, Columnas.
+- Operaciones con columnas. 
+- Estadísticas descriptivas. 
+- Borrar filas o columnas. 
+- Manejo de datos faltantes.
 
 # Anuncios varios
 

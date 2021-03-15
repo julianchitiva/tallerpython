@@ -89,10 +89,22 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.csv" download>[csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.xlsx" download>[xlsx]</a> 
 
-### Clase 8: Bases de datos II
-- Manipulación de bases de datos: muestreos y agrupaciones.
-- Unión: merge, join, concat, append.
-- Estadísticas descriptivas.
+### Clase 8: Bases de datos II 
+- Importación y exportación de datos
+- Unión de bases: merge, concat, append.
+- Manipulación de bases de datos:
+    - Muestreos.
+    - Agrupaciones.
+    - Tablas Pivote.
+    - Tabulaciones.
+    - Fechas.
+    - Categorias.
+    - Orden.
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/Clase_8_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/Clase_8_solucion.ipynb" download>[Descargar Estudiantes]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/info_accidentes.csv" download>[accidentes csv]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/info_accidentes.xlsx" download>[accidentes xlsx]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares1.csv" download>[hogares 1 csv]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares2.csv" download>[hogares 2 csv]</a> 
 
 ### Clase 9: Visualización de datos
 - Matplotlib.
