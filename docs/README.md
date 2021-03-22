@@ -106,6 +106,8 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares1.csv" download>[hogares 1 csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares2.csv" download>[hogares 2 csv]</a> 
 
+### Tarea 2: <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Ejercicios_Tareas/Tarea2.ipynb" download>[Enunciado]</a>
+
 ### Clase 9: Visualización de datos
 - Matplotlib.
 - Plotly.
