@@ -109,9 +109,19 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 ### Tarea 2: <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Ejercicios_Tareas/Tarea2.ipynb" download>[Enunciado]</a>
 
 ### Clase 9: Visualización de datos
+- Manipulación de bases de datos:
+    - Muestreos.
+    - Agrupaciones.
+    - Tablas Pivote.
+    - Tabulaciones.
+    - Fechas.
+    - Categorias.
+    - Orden.
 - Matplotlib.
-- Plotly.
-- Seaborn.
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/Clase_9_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/Clase_9_solucion.ipynb" download>[Descargar Solución]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/info_accidentes.csv" download>[accidentes csv]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/brazilian-ecommerce" download>[brazilian-ecommerce]</a> 
+
 
 ### Clase 10: TALLER 2
 
