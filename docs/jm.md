@@ -91,7 +91,7 @@ La clave para todas las grabaciones es _juanpython2021!_
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.csv" download>[csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_7_introduccion_pandas/info_accidentes.xlsx" download>[xlsx]</a> 
 
-### Clase 8: Bases de datos II 
+### Clase 8: Bases de datos II [Grabación](https://uniandes-edu-co.zoom.us/rec/share/yfERCFeGBtVegOu5OH14AcD4NBvA8Iwbz9rY40PNRxlU7Xp3ubr2yLuxqpABYXoP.nJZjz1cYPPxg6t6V)
 - Importación y exportación de datos
 - Unión de bases: merge, concat, append.
 - Manipulación de bases de datos:
@@ -119,3 +119,4 @@ La clave para todas las sesiones es: juanpython2021!
 - Clase 5: [Funciones II y Condicionales](https://uniandes-edu-co.zoom.us/rec/share/YwyWxurF0eY3HzGIplr9gBn6ZGndOLKutRRD64lgGjINQ-u9eJgANWVcwh1AU6JP.wqHHhx8Bf1JRrQhF)
 - Clase 6: [Map, Zip, Lambda Functions y Taller 1](https://uniandes-edu-co.zoom.us/rec/share/aObLfRrEyvjxcoEboAtg7a12heFY_Ylyy_Ol0YMb8t-66zSbYPgYIHNm7vO4WA-y.S4_p-gc8hNhQtp4q)
 - Clase 7: [Bases de datos I](https://uniandes-edu-co.zoom.us/rec/share/BUQc5LWTsUpG8qSMyVqCtayWjSGr6byv5YCOY30Xc1L0UprkcoM6B8JoXFkJlvoV.BiWyXZ53OkMW7QWJ)
+- Clase 8: [Bases de datos II](https://uniandes-edu-co.zoom.us/rec/share/yfERCFeGBtVegOu5OH14AcD4NBvA8Iwbz9rY40PNRxlU7Xp3ubr2yLuxqpABYXoP.nJZjz1cYPPxg6t6V)
