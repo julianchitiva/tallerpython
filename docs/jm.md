@@ -108,6 +108,21 @@ La clave para todas las grabaciones es _juanpython2021!_
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares1.csv" download>[hogares 1 csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares2.csv" download>[hogares 2 csv]</a> 
 
+### Clase 9: Manipulación y Visualización de datos
+- Manipulación de bases de datos:
+    - Muestreos.
+    - Agrupaciones.
+    - Tablas Pivote.
+    - Tabulaciones.
+    - Fechas.
+    - Categorias.
+    - Orden.
+- Matplotlib.
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/Clase_9_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/Clase_9_solucion.ipynb" download>[Descargar Solución]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/info_accidentes.csv" download>[accidentes csv]</a> 
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/brazilian-ecommerce" download>[brazilian-ecommerce]</a> 
+
+
 ## Clases Grabadas.
 
 La clave para todas las sesiones es: juanpython2021!
