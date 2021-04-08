@@ -108,7 +108,7 @@ La clave para todas las grabaciones es _juanpython2021!_
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares1.csv" download>[hogares 1 csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares2.csv" download>[hogares 2 csv]</a> 
 
-### Clase 9: Manipulación y Visualización de datos
+### Clase 9: Manipulación y Visualización de datos [Grabación])(https://uniandes-edu-co.zoom.us/rec/share/0zl3hdQKnpxLodgfcB11ZPdfNvJFL_0fT4z51ipSbPb1fwPds3CwOl0pR_NdSYMK.n92oKEswPi-dNBky)
 - Manipulación de bases de datos:
     - Muestreos.
     - Agrupaciones.
@@ -135,3 +135,4 @@ La clave para todas las sesiones es: juanpython2021!
 - Clase 6: [Map, Zip, Lambda Functions y Taller 1](https://uniandes-edu-co.zoom.us/rec/share/aObLfRrEyvjxcoEboAtg7a12heFY_Ylyy_Ol0YMb8t-66zSbYPgYIHNm7vO4WA-y.S4_p-gc8hNhQtp4q)
 - Clase 7: [Bases de datos I](https://uniandes-edu-co.zoom.us/rec/share/BUQc5LWTsUpG8qSMyVqCtayWjSGr6byv5YCOY30Xc1L0UprkcoM6B8JoXFkJlvoV.BiWyXZ53OkMW7QWJ)
 - Clase 8: [Bases de datos II](https://uniandes-edu-co.zoom.us/rec/share/yfERCFeGBtVegOu5OH14AcD4NBvA8Iwbz9rY40PNRxlU7Xp3ubr2yLuxqpABYXoP.nJZjz1cYPPxg6t6V)
+- Clase 9: [Bases de datos III](https://uniandes-edu-co.zoom.us/rec/share/0zl3hdQKnpxLodgfcB11ZPdfNvJFL_0fT4z51ipSbPb1fwPds3CwOl0pR_NdSYMK.n92oKEswPi-dNBky)
