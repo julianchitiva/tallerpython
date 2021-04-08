@@ -108,7 +108,7 @@ La clave para todas las grabaciones es _juanpython2021!_
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares1.csv" download>[hogares 1 csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_8_pandas_II/encuesta_hogares2.csv" download>[hogares 2 csv]</a> 
 
-### Clase 9: Manipulación y Visualización de datos [Grabación])(https://uniandes-edu-co.zoom.us/rec/share/0zl3hdQKnpxLodgfcB11ZPdfNvJFL_0fT4z51ipSbPb1fwPds3CwOl0pR_NdSYMK.n92oKEswPi-dNBky)
+### Clase 9: Manipulación y Visualización de datos [Grabación](https://uniandes-edu-co.zoom.us/rec/share/0zl3hdQKnpxLodgfcB11ZPdfNvJFL_0fT4z51ipSbPb1fwPds3CwOl0pR_NdSYMK.n92oKEswPi-dNBky)
 - Manipulación de bases de datos:
     - Muestreos.
     - Agrupaciones.
