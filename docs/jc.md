@@ -67,6 +67,11 @@ title: Seccion 1
 - Transformaciones de tipos de datos.
 - Manejo de Fechas. 
 
+## Clase 9 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/Clase_9_estudiantes_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]](https://youtu.be/mHLeBq6csBs)
+- Manejo de fechas
+- Groupby
+- Tablas pivote
+
 # Anuncios varios
 
 ## Reglas de Clase
