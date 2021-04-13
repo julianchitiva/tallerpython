@@ -72,6 +72,13 @@ title: Seccion 1
 - Groupby
 - Tablas pivote
 
+
+## Clase 10 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_10_11_pandas_IV_visualizacion/Clase_10_11_estudiantes_JC.ipynb" download>[Descargar Estudiantes] </a> [[Video]](https://youtu.be/WDCBwfXpuLk)
+- Matplotlib
+    - Gráficos circulares.
+    - Gráficos de barras.
+- Gráficos de Pandas. 
+
 # Anuncios varios
 
 ## Reglas de Clase
