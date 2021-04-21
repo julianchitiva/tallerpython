@@ -73,10 +73,12 @@ title: Seccion 1
 - Tablas pivote
 
 
-## Clase 10 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_10_11_pandas_IV_visualizacion/Clase_10_11_estudiantes_JC.ipynb" download>[Descargar Estudiantes] </a> [[Video]](https://youtu.be/WDCBwfXpuLk)
+## Clase 10 y 11 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_10_11_pandas_IV_visualizacion/Clase_10_11_estudiantes_JC.ipynb" download>[Descargar Estudiantes] </a> [[Video 10]](https://youtu.be/WDCBwfXpuLk) [[Video 11]](https://youtu.be/sqbP5CJJpjA)
 - Matplotlib
-    - Gráficos circulares.
-    - Gráficos de barras.
+    - Circulares.
+    - Barras.
+    - Dispersión.
+    - Subgráficos. 
 - Gráficos de Pandas. 
 
 # Anuncios varios
