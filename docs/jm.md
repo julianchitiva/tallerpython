@@ -122,6 +122,11 @@ La clave para todas las grabaciones es _juanpython2021!_
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/Clase_9_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/Clase_9_solucion.ipynb" download>[Descargar Solución]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/info_accidentes.csv" download>[accidentes csv]</a> 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/brazilian-ecommerce" download>[brazilian-ecommerce]</a> 
 
+### Clase 10: Visualizacion [Grabación](https://uniandes-edu-co.zoom.us/rec/share/bv76bXN2adfXb_K6vBurEem0M0HqBuSmsDK-QYAWQvv7xVCf1KHX329t9ua8LpM.D17owqdWwz264vrM)
+- Matplotlib.
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_10_11_pandas_IV_visualizacion/Clase_10_11_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_10_11_pandas_IV_visualizacion/Clase_10_11_solucion.ipynb" download>[Descargar Solución]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/brazilian-ecommerce" download>[brazilian-ecommerce]</a> 
+
 
 ## Clases Grabadas.
 
@@ -136,3 +141,4 @@ La clave para todas las sesiones es: juanpython2021!
 - Clase 7: [Bases de datos I](https://uniandes-edu-co.zoom.us/rec/share/BUQc5LWTsUpG8qSMyVqCtayWjSGr6byv5YCOY30Xc1L0UprkcoM6B8JoXFkJlvoV.BiWyXZ53OkMW7QWJ)
 - Clase 8: [Bases de datos II](https://uniandes-edu-co.zoom.us/rec/share/yfERCFeGBtVegOu5OH14AcD4NBvA8Iwbz9rY40PNRxlU7Xp3ubr2yLuxqpABYXoP.nJZjz1cYPPxg6t6V)
 - Clase 9: [Bases de datos III](https://uniandes-edu-co.zoom.us/rec/share/0zl3hdQKnpxLodgfcB11ZPdfNvJFL_0fT4z51ipSbPb1fwPds3CwOl0pR_NdSYMK.n92oKEswPi-dNBky)
+- Clase 10: [Visualización I](https://uniandes-edu-co.zoom.us/rec/share/bv76bXN2adfXb_K6vBurEem0M0HqBuSmsDK-QYAWQvv7xVCf1KHX329t9ua8LpM.D17owqdWwz264vrM)
