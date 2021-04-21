@@ -123,26 +123,28 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/brazilian-ecommerce" download>[brazilian-ecommerce]</a> 
 
 
-### Clase 10: Visualizacion
+### Clase 10 y 11: Visualizacion
 - Matplotlib.
 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_10_11_pandas_IV_visualizacion/Clase_10_11_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_10_11_pandas_IV_visualizacion/Clase_10_11_solucion.ipynb" download>[Descargar Solución]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/brazilian-ecommerce" download>[brazilian-ecommerce]</a> 
 
-### Clase 11: Econometría I
+### Clase 12: TALLER 2 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_12_taller_II/Taller_2_estudiantes.ipynb" download>[Enunciado]</a>
+
+### Clase 13: Econometría I
 - Statmodels.
 - Scipy.
 - Pruebas estadísticas.
 - OLS.
 - Modelos discretos.
 
-### Clase 12: Automatización de reportes
+### Clase 14: Automatización de reportes
 - Diagramación automática de Excel.
 - Generación de reportes.
 - Diseño personalizado de resúmenes ejecutivos.
 - Inclusión de gráficos
 - Notificaciones al smartphone.
 
-### Clase 13, 14 y 15*: Los estudiantes elegirán que aprender de los siguientes temas
+### Clase 15*: Los estudiantes elegirán que aprender de los siguientes temas
 - Introducción a web scraping.
 - Optimización con Pyomo/CVXPY
 - Python Simbólico. 
