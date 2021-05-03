@@ -127,6 +127,13 @@ La clave para todas las grabaciones es _juanpython2021!_
 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_10_11_pandas_IV_visualizacion/Clase_10_11_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_10_11_pandas_IV_visualizacion/Clase_10_11_solucion.ipynb" download>[Descargar Solución]</a> <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_9_pandas_III_visualizacion/brazilian-ecommerce" download>[brazilian-ecommerce]</a> 
 
+### Clase 11: Visualización II [Grabación](https://uniandes-edu-co.zoom.us/rec/share/RWqqsAaQGN6ozGXFcbygct-RZdRCSx1NKliTd6783AzMRCOvjUnkS8yARJh-irFw.sdJ71l8rupKYWB1E)
+- Matplotlib.
+Use los mismos notebooks de la clase pasada
+
+### Clase 12: Sesión Taller 2
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_12_taller_II/Taller_2_estudiantes.ipynb" download>[Enunciado Taller 2 (grupal)]</a>
+
 
 ## Clases Grabadas.
 
@@ -142,3 +149,4 @@ La clave para todas las sesiones es: juanpython2021!
 - Clase 8: [Bases de datos II](https://uniandes-edu-co.zoom.us/rec/share/yfERCFeGBtVegOu5OH14AcD4NBvA8Iwbz9rY40PNRxlU7Xp3ubr2yLuxqpABYXoP.nJZjz1cYPPxg6t6V)
 - Clase 9: [Bases de datos III](https://uniandes-edu-co.zoom.us/rec/share/0zl3hdQKnpxLodgfcB11ZPdfNvJFL_0fT4z51ipSbPb1fwPds3CwOl0pR_NdSYMK.n92oKEswPi-dNBky)
 - Clase 10: [Visualización I](https://uniandes-edu-co.zoom.us/rec/share/bv76bXN2adfXb_K6vBurEem0M0HqBuSmsDK-QYAWQvv7xVCf1KHX329t9ua8LpM.D17owqdWwz264vrM)
+- Clase 11: [Visualización II](https://uniandes-edu-co.zoom.us/rec/share/RWqqsAaQGN6ozGXFcbygct-RZdRCSx1NKliTd6783AzMRCOvjUnkS8yARJh-irFw.sdJ71l8rupKYWB1E)
