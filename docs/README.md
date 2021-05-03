@@ -132,10 +132,13 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 
 ### Clase 13: Econometría I
 - Statmodels.
+- Scikit-Learn
 - Scipy.
 - Pruebas estadísticas.
 - OLS.
-- Modelos discretos.
+- Modelos discretos (Logit y Probit).
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_13_econometria/Clase13_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_13_econometria/Clase13_solucion.ipynb" download>[Descargar Solución]</a> 
 
 ### Clase 14: Automatización de reportes
 - Diagramación automática de Excel.
