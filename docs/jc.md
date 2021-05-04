@@ -81,6 +81,14 @@ title: Seccion 1
     - Subgráficos. 
 - Gráficos de Pandas. 
 
+## Clase 12
+- Taller 2
+
+## Clase 13 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_13_econometria/Clase_13_estudiantes_JC.ipynb" download>[Descargar Estudiantes] </a> [[Video]](https://youtu.be/NV8D5iVdu_w)
+- Distribuciones y pruebas estadísticas con scipy.
+- Statsmodels y Scikit-Learn.
+    - Modelos de Regresión Lineal. 
+    - Modelos Logit y Probit.
 # Anuncios varios
 
 ## Reglas de Clase
