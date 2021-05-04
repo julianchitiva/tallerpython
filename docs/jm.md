@@ -134,6 +134,15 @@ Use los mismos notebooks de la clase pasada
 ### Clase 12: Sesión Taller 2
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_12_taller_II/Taller_2_estudiantes.ipynb" download>[Enunciado Taller 2 (grupal)]</a>
 
+### Clase 13: Econometría I
+- Statmodels.
+- Scikit-Learn
+- Scipy.
+- Pruebas estadísticas.
+- OLS.
+- Modelos discretos (Logit y Probit).
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_13_econometria/Clase13_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_13_econometria/Clase13_solucion.ipynb" download>[Descargar Solución]</a> 
 
 ## Clases Grabadas.
 
