@@ -145,7 +145,8 @@ En la primera clase les comentaré exactamente que fue lo que hicieron. Para ten
 - Generación de reportes.
 - Diseño personalizado de resúmenes ejecutivos.
 - Inclusión de gráficos
-- Notificaciones al smartphone.
+
+<a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_14_reportes/Clase14_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_14_reportes/Clase14_solucion.ipynb" download>[Descargar Solución]</a> 
 
 ### Clase 15*: Los estudiantes elegirán que aprender de los siguientes temas
 - Introducción a web scraping.
