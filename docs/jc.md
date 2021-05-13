@@ -89,6 +89,15 @@ title: Seccion 1
 - Statsmodels y Scikit-Learn.
     - Modelos de Regresión Lineal. 
     - Modelos Logit y Probit.
+    
+## Clase 14: Automatización de reportes <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_14_reportes/Clase14_estudiantes_JC.ipynb" download>[Descargar Estudiantes]</a> [[Video]](https://youtu.be/ajIRYbvfwUA)
+
+- Diagramación automática de Excel.
+- Generación de reportes.
+- Diseño personalizado de resúmenes ejecutivos.
+- Inclusión de gráficos.
+- Inclusión de fórmulas.
+  
 # Anuncios varios
 
 ## Reglas de Clase
