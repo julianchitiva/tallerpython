@@ -144,7 +144,7 @@ Use los mismos notebooks de la clase pasada
 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_13_econometria/Clase13_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_13_econometria/Clase13_solucion.ipynb" download>[Descargar Solución]</a> 
 
-### Clase 14: Automatización de reportes
+### Clase 14: Automatización de reportes [Grabación](https://uniandes-edu-co.zoom.us/rec/share/hMTa6dmIkKtyvxrMv5w9_F30R-aEJUfSn9LWhiN17gVdirs91gDpZ0MTvtVYn9P_.Lol7bG9Nj8V0tjAH)
 - Diagramación automática de Excel.
 - Generación de reportes.
 - Diseño personalizado de resúmenes ejecutivos.
@@ -152,6 +152,7 @@ Use los mismos notebooks de la clase pasada
 
 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_14_reportes/Clase14_estudiantes.ipynb" download>[Descargar Estudiantes]</a>  <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_14_reportes/Clase14_solucion.ipynb" download>[Descargar Solución]</a> 
 
+### Clase 15: TALLER 3 <a id="raw-url" href="https://github.com/julianchitiva/tallerpython/blob/main/clases/20211/Clase_16_taller_III/Taller_3.ipynb" download>[Enunciado]</a>
 
 
 ## Clases Grabadas.
